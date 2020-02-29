@@ -16,7 +16,7 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 * ### Web Hacking II
 ## 04/03/20
 * ### Engenharia Reversa
-## 07/03/20I
+## 07/03/20
 * ### Banco de Dados II
 * ### Segurança Ofensiva I
 * ### Segurança Ofensiva II
