@@ -8,7 +8,7 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 ## 18/02/20 
 * ### [Web Hacking I](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/WebHacking/TAGWebI.pdf)
 ## 29/02/20
-* ### Go
+* ### [Go](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Go/main.go)
 ## 29/02/20
 * ### Criptografia
 * ### Banco de Dados I
