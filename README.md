@@ -7,7 +7,7 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 * ### [Engenharia Social](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/EngenhariaSocial/Vulnerabilidades%20%C3%A0%20Engenharia%20Social.pdf)
 ## 18/02/20 
 * ### [Web Hacking I](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/WebHacking/TAGWebI.pdf)
-## 29/02/20
+## 28/02/20
 * ### [Go](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Go/main.go)
 ## 29/02/20
 * ### Criptografia
