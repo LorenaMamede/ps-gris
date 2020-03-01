@@ -1,52 +1,53 @@
 CREATE DATABASE IF NOT EXISTS PSGRIS2020;
 USE PSGRIS2020;
-CREATE TABLE Pessoa (
-pessoa_oid bigint(20) NOT NULL,
+
+CREATE TABLE Pessoa(
+pessoaOid bigint(20) NOT NULL,
 nome varchar(80),
 numeroDocumento varchar(80),
 tipoDocumento varchar(80),
 telefone varchar(20),
 email varchar(80),
-CONSTRAINT PKPessoa PRIMARY KEY (pessoa_oid),
+CONSTRAINT PKPessoa PRIMARY KEY (pessoaOid)
 );
 
 CREATE TABLE Candidato( 
-candidato_oid bigint(20) NOT NULL,
-pessoa_oid bigint(20) NOT NULL,
+candidatoOid bigint(20) NOT NULL,
+pessoaOid bigint(20) NOT NULL,
 
-CONSTRAINT PKCandidato PRIMARY KEY (candidato_oid),
-CONSTRAINT CandidatoEK UNIQUE (pessoa_oid)
+CONSTRAINT PKCandidato PRIMARY KEY (candidatoOid),
+CONSTRAINT CandidatoEK UNIQUE (pessoaOid)
 );
 
 CREATE TABLE Avaliador( 
-avaliador_oid bigint(20) NOT NULL,
-pessoa_oid bigint(20) NOT NULL,
+avaliadorOid bigint(20) NOT NULL,
+pessoaOid bigint(20) NOT NULL,
 descricao varchar(255),
-CONSTRAINT PKAvaliador PRIMARY KEY (avaliador_oid),
-CONSTRAINT AvaliadorEK UNIQUE (pessoa_oid)
+CONSTRAINT PKAvaliador PRIMARY KEY (avaliadorOid),
+CONSTRAINT AvaliadorEK UNIQUE (pessoaOid)
 );
 
 CREATE TABLE Palestra(
-palestra_oid bigint(20) NOT NULL,	
-avaliador_oid bigint(20) NOT NULL,
+palestraOid bigint(20) NOT NULL,	
+avaliadorOid bigint(20) NOT NULL,
 nome varchar(80),
 dataRealizacao datetime,
 localizacao varchar(255),
 descricao varchar(255),
 
-CONSTRAINT PKPalastra PRIMARY KEY (palestra_oid),
-CONSTRAINT PalestraEK UNIQUE (avaliador_oid)
+CONSTRAINT PKPalastra PRIMARY KEY (palestraOid),
+CONSTRAINT PalestraEK UNIQUE (avaliadorOid)
 );
 
 CREATE TABLE Tag(
-tag_oid bigint(20) NOT NULL,	
-palestra_oid bigint(20) NOT NULL, 
+tagOid bigint(20) NOT NULL,	
+palestraOid bigint(20) NOT NULL, 
 nome varchar(80),
 dataEntrega datetime,
 descricao varchar(255),
 
-CONSTRAINT PKTag PRIMARY KEY (tag_oid),
-CONSTRAINT TagEK UNIQUE (palestra_oid)
+CONSTRAINT PKTag PRIMARY KEY (tagOid),
+CONSTRAINT TagEK UNIQUE (palestraOid)
 );
 
 
