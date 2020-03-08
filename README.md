@@ -15,7 +15,7 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 ## 02/03/20
 * ### Web Hacking II
 ## 04/03/20
-* ### Engenharia Reversa
+* ### [Engenharia Reversa](https://github.com/LorenaMamede/ps-gris/tree/master/TAGS/EngenhariaReversa)
 ## 07/03/20
 * ### Ethical Hacking
 * ### Banco de Dados II
