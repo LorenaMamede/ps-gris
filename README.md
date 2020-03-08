@@ -20,7 +20,7 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 * ### Ethical Hacking
 * ### [Banco de Dados II](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/BancoDeDados/BancodeDadosII-Marketplace.pdf)
 * ### Segurança Ofensiva I
-* ### Segurança Ofensiva II
+* ### Segurança Ofensiva II (opcional)
 * ### Segurança Ofensiva III
 ## 15/03/20
 * ### Redes
