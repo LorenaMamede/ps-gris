@@ -18,7 +18,7 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 * ### [Engenharia Reversa](https://github.com/LorenaMamede/ps-gris/tree/master/TAGS/EngenhariaReversa)
 ## 07/03/20
 * ### Ethical Hacking
-* ### Banco de Dados II
+* ### [Banco de Dados II](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/BancoDeDados/BancodeDadosII-Marketplace.pdf)
 * ### Segurança Ofensiva I
 * ### Segurança Ofensiva II
 * ### Segurança Ofensiva III
