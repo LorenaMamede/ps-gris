@@ -23,7 +23,7 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 * ### Segurança Ofensiva II (opcional)
 * ### Segurança Ofensiva III
 ## 15/03/20
-* ### Redes
+* ### [Redes](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Redes/TAG%20Redes.pdf)
 * ### Bash
 * ### OverTheWire
 * ### Linux
