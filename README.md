@@ -13,7 +13,7 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 * ### [Criptografia](https://github.com/LorenaMamede/ps-gris/tree/master/TAGS/Criptografia)
 * ### [Banco de Dados I](https://github.com/LorenaMamede/ps-gris/tree/master/TAGS/BancoDeDados)
 ## 02/03/20
-* ### Web Hacking II
+* ### Web Hacking II(repositorio privado)
 ## 04/03/20
 * ### [Engenharia Reversa](https://github.com/LorenaMamede/ps-gris/tree/master/TAGS/EngenhariaReversa)
 ## 07/03/20
@@ -26,4 +26,4 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 * ### [Redes](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Redes/TAG%20Redes.pdf)
 * ### [Bash](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Bash/backup-script.sh)
 * ### OverTheWire
-* ### Linux
+* ### (Linux)[https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Linux/Linux.pdf]
