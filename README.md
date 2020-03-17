@@ -26,4 +26,4 @@ Repositório dedicado às atividades realizadas no treinamento do GRIS - Grupo d
 * ### [Redes](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Redes/TAG%20Redes.pdf)
 * ### [Bash](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Bash/backup-script.sh)
 * ### OverTheWire
-* ### (Linux)[https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Linux/Linux.pdf]
+* ### [Linux](https://github.com/LorenaMamede/ps-gris/blob/master/TAGS/Linux/Linux.pdf)
